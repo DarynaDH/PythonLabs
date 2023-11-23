@@ -1,1 +1,3 @@
 INFO:root:Received: Welcome to the chat, None!
+INFO:root:Received: Welcome to the chat, daryna!
+INFO:root:Sent: Hello
